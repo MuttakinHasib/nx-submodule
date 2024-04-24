@@ -1,6 +1,6 @@
 # NX Monorepo with submodule
 
-## Installation guide
+## Fresh Installation guide
 
 1) Open terminal and enter the following command:
    1) `npx create-nx-workspace@latest`
