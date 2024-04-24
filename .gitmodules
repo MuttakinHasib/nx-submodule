@@ -1,3 +1,4 @@
 [submodule "apps/private-app"]
 	path = apps/private-app
 	url = https://github.com/MuttakinHasib/private-app.git
+  branch = main
